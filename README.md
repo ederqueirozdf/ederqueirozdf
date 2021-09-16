@@ -11,7 +11,7 @@ Graduated in information security, graduate degree in network projects and cloud
 
 [![](linkedin.svg)
 ](https://www.linkedin.com/in/ederqueirozdf)
-[![](telegram.svg)](https://t.me/joinchat/jRZIS8v7IZIwYjFh)
+[![](telegram.svg)](https://t.me/ederqueirozdf)
 
 
 
